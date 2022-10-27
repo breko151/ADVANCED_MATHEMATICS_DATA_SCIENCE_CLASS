@@ -1,5 +1,3 @@
-from msilib.schema import Condition
-from unittest import result
 import numpy as np
 
 def get_data():
@@ -58,5 +56,3 @@ def minimization():
                 XN.append(0)
         print(XN)
         result = False
-
-
